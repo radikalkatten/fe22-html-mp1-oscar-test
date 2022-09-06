@@ -1,0 +1,23 @@
+h1{
+    border: red 2px ;
+    border-style: dashed dotted ridge;
+    padding: 20px;
+}
+p{
+    margin-top: px;
+    border: black 3px dotted;
+    padding: 20px;
+}
+article{
+    border: orange 4px dotted;
+    padding: 20%;
+}
+a{
+    color: fuchsia;
+}
+a:hover{
+    color: aqua;
+}
+img{
+    margin: auto;
+}
